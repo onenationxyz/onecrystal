@@ -7,7 +7,7 @@ Multipass is the secure, censorship-proof, immutable, self-own, community-hosted
 
 Every ID document is testified by other beings from [One Nation](https://github.com/onenationxyz/onenation) and stored irrevocably inside the Crystal.
 
-### Self-sovereign IDs
+## Self-sovereign IDs
 
 > "Your papers please?"  
 > "Off course! Here is my One Nation Passport ;-)"
@@ -22,7 +22,7 @@ Let's imagine that instead, you will be able to display your One Nation Passport
  
 At some point, [One Nation](https://github.com/onenationxyz/onenation) will densify into the reality. Backed with a strong network of trust behind every being, forces of (dis)order will gradually understand than annoying someone for displaying his One Nation Passport is a bad move. They will have to survive a tsunami of love for having misbehaved.
 
-### Digital IDs
+## Digital IDs
 
 One Nation Passport will be digital and carved into the Crystal.
 

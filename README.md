@@ -5,7 +5,8 @@
 The Crystal is what gives full meaning to the _"Nation"_ word of _"One Nation"_.  
 This is a network of a new kind, with a fresh & juicy flavor of freedom.
 
-### One Nation: decentralized planetary nation
+## One Nation
+### Decentralized planetary nation
 
 One Nation is a decentralized nation, free from borders, rulers & institutions.  
 It's full of people walking on their way towards emancipation from unlegitimate authorities.
@@ -16,7 +17,8 @@ A network with no borders, no all-mighty rule-makers, no institutions...
 - [One Nation Github](https://github.com/onenationxyz/onenation)
 - [One Nation Website](https://onenation.xyz)
 
-### One Crystal: decentralized network
+## One Crystal
+### Decentralized network
 
 The Crystal is multidimensional.  
 It is both a network of devices and a network of humans inspired by the spirit of One Nation.
@@ -27,7 +29,8 @@ The Crystal serves two main purposes :
 
 [Read more about One Crystal](ONECRYSTAL.md)
 
-### Multipass: self-sovereign IDs
+## Multipass
+### Self-sovereign IDs
 
 Multipass is the secure, censorship-proof, immutable, self-own, community-hosted "wallet" of self-made IDs such as :
 - One Nation Passport
@@ -38,9 +41,9 @@ Every ID document is testified by other beings from [One Nation](https://github.
 
 [Read more about Multipass](./MULTIPASS.md)
 
-### Developers
+## Developers
 
-###### Roadmap
+### Roadmap
 
 - Find out why, how, what, when (done)
 - Write the specs (work in progress)
@@ -51,7 +54,7 @@ Every ID document is testified by other beings from [One Nation](https://github.
     - no worries, no distractions...
 - Release and let the crystal shine!
 
-###### Technology stack
+### Technology stack
 
 Suspected technologies: 
 - [IDX](https://idx.xyz/) for cross-systems digital identity
@@ -67,7 +70,7 @@ Apps:
 - Raspberry executable (24/24 hubs)
 - Webapp (gateways)
 
-###### Contribute
+### Contribute
 
 The project needs before anything else Web 3.0 thinking hearts and brains.
 
@@ -81,4 +84,4 @@ For the first release (MVP) some skills are welcomed:
 
 If your heart is singing, introduce yourself at [onenationxyz+crystal@protonmail.com](mailto:onenationxyz+crystal@protonmail.com).
 
-Take care
+Take care!
